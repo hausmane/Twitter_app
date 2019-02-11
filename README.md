@@ -157,10 +157,3 @@ Submition example of the storm topology
 ```
 storm jar trendingTopology-1.0-SNAPSHOT-jar-with-dependencies.jar master2015.Top3App "es,en,pl,ar" "node2:2181" "60,30" "trending-topologya" "/home/masteruser1"
 ```
-## Contact information
-
-Yolanda de la Hoz Simón. yolanda93h@gmail.com
-
-## Blog explaining the basics steps to develop this project
-
-[1] https://theredqueeneffectblog.wordpress.com/2016/04/02/twitter-real-time-data-analysis/
